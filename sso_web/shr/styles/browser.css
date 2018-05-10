@@ -1,0 +1,73 @@
+html, body{
+	height: 100%;
+	width: 100%;
+}
+body{
+
+    font-family: Microsoft YaHei, Tahoma, Helvetica, Arial, "宋体b8b\4f53", sans-serif !important;
+	overflow: hidden;
+	padding: 0px;
+	margin: 0px;
+	background-color: #e5e5e5;
+}
+
+.main{
+    min-height: 300px;
+    height: 50%;
+    /*background-color: #428BCA;*/
+	margin: 0px;
+	padding: 0px;
+}
+
+.logo{
+    height: 60%;
+    line-height: 300%;
+    text-align: center;
+    font-size: 80px;
+    color: white;
+}
+
+.caption2{
+    color: black;
+    height: 20%;
+    line-height: 300%;
+    font-size: 24px;
+    text-align: center;
+}
+
+.download{
+    height: 50%;
+    background-color: #e5e5e5;
+	margin: 0px;
+	padding: 0px;
+}
+
+.browser-box{
+    display: inline-block;
+    margin-left: 50px;
+    margin-right: 50px;
+    width: 120px;
+}
+
+.browser-logo{
+    text-align: center;
+}
+
+.browsers{
+    text-align: center;
+    padding-top: 40px;
+}
+
+.address{
+    font-size: 20px;
+    margin-top: 10px;
+}
+
+.official{
+
+}
+
+.local{
+    float: right;
+
+}
